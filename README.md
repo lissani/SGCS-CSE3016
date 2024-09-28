@@ -6,3 +6,4 @@
 |1주차|FPGA의 소개와 이해|
 |2주차|Verilog 기초|
 |3주차|AND/OR/NOT|
+|4주차|NAND/NOR/XOR|
